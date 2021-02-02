@@ -1,0 +1,18 @@
+html {
+  background-image: url('../img/traffic_jam.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: Lucida;
+}
+#java {
+  border: 5px solid blue;
+  background-color: lightblue;
+  margin: 10px;
+  margin-right: 1100px;
+  padding: 10px
+}
+script {
+  color: white;
+}
